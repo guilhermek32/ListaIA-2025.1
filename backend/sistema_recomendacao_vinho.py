@@ -19,7 +19,6 @@ if sys.platform == 'win32':
 # Carregar dados dos CSVs
 df_pratos = pd.read_csv('pratos.csv')
 df_vinhos = pd.read_csv('vinhos.csv')
-df_regras = pd.read_csv('regras.csv')
 
 # Características dos vinhos (conhecimento especializado)
 # Mapeamento expandido baseado nos tipos de vinho
