@@ -31,10 +31,6 @@ uv --version
 
 ### Passo 1: Clone ou Navegue até o Projeto
 
-```bash
-cd C:\Users\gui\Documents\code\Lista2-IA\ListaIA-2025.1
-```
-
 ### Passo 2: Configure as Variáveis de Ambiente
 
 Copie o arquivo de exemplo e configure suas chaves API:
