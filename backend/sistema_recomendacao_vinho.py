@@ -86,12 +86,13 @@ def codificar_pratos(df):
     df_encoded = df.copy()
 
     # Mapear tipo de prato
+    # Baseado em intensidade de proteína e peso do prato
     tipo_map = {
-        'carne vermelha': 3, 
-        'carne branca': 2, 
-        'peixe': 1, 
-        'vegetariano': 1,
-        'frutos do mar': 1
+        'carne vermelha': 5,    # Proteína mais forte e intensa
+        'carne branca': 3,      # Proteína moderada
+        'frutos do mar': 2,     # Proteína delicada, sabor do mar
+        'peixe': 2,             # Proteína delicada, similar a frutos do mar
+        'vegetariano': 1        # Sem proteína animal, mais leve
     }
 
     # Mapear temperos (expandido)
