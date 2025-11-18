@@ -18,7 +18,7 @@ function getVinhos(): Vinho[] {
   }
   return vinhosCache;
 }
-
+ 
 // Função para buscar prato por nome ou descrição
 export function buscarPrato(query: string): Prato | null {
   const pratos = getPratos();
