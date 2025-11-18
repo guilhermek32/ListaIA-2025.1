@@ -39,7 +39,8 @@ export default function Chat() {
     setIsLoading(true);
 
     try {
-      const response = await fetch('/api/recomendacao', {
+      // Call Python FastAPI backend
+      const response = await fetch('http://localhost:8000/api/recomendacao', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -62,7 +63,7 @@ export default function Chat() {
       const erroMensagem: Mensagem = {
         id: (Date.now() + 1).toString(),
         role: 'assistant',
-        content: 'Desculpe, ocorreu um erro. Tente novamente.',
+        content: 'Desculpe, não consegui conectar ao servidor. Certifique-se de que a API Python está rodando em http://localhost:8000',
         timestamp: new Date()
       };
       setMensagens(prev => [...prev, erroMensagem]);

@@ -1,0 +1,18 @@
+[project]
+name = "listaia-2025-1"
+version = "1.0.0"
+description = "Wine Recommendation System with AI Justifications - Backend API"
+readme = "README.md"
+authors = [
+    { name = "guilhermek32", email = "guilhermek32@gmail.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "dspy-ai>=3.0.4",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.7.2",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
+]

@@ -1,0 +1,29 @@
+id_prato,nome_prato,ingredientes,tipo_prato,temperos,acidez,intensidade_sabor,vinho,tipo_vinho
+1,Filé ao molho madeira,"filé mignon, molho madeira, cogumelos",carne vermelha,intenso,baixa,alta,Cabernet Sauvignon,tinto seco
+2,Salmão grelhado,"salmão, limão, ervas",peixe,herbal,alta,média,Chardonnay,branco seco
+3,Lasanha vegetariana,"massa, molho de tomate, legumes",vegetariano,moderado,média,média,Merlot,tinto suave
+4,Frango ao curry,"frango, curry, leite de coco",carne branca,picante,média,alta,Riesling,branco doce
+5,Risoto de limão siciliano,"arroz arbório, limão siciliano, parmesão",vegetariano,cítrico,alta,baixa,Sauvignon Blanc,branco seco
+6,Picanha na brasa,"picanha, sal grosso",carne vermelha,salgado,baixa,alta,Malbec,tinto seco
+7,Camarão ao alho e óleo,"camarão, alho, azeite",frutos do mar,intenso,média,média,Verdejo,branco seco
+8,Quiche de espinafre,"espinafre, ovos, queijo",vegetariano,suave,baixa,baixa,Pinot Grigio,branco seco
+9,Bacalhau à Gomes de Sá,"bacalhau, batatas, cebola, azeitonas",peixe,salgado,média,alta,Alvarinho,branco seco
+10,Feijoada,"feijão preto, carnes defumadas",carne vermelha,intenso,baixa,alta,Syrah,tinto seco
+11,Moqueca baiana,"peixe, dendê, leite de coco",peixe,intenso,média,alta,Gewürztraminer,branco aromático
+12,Strogonoff de carne,"carne, creme de leite, cogumelos",carne vermelha,cremoso,baixa,média,Pinot Noir,tinto leve
+13,Strogonoff de frango,"frango, creme de leite, cogumelos",carne branca,cremoso,baixa,média,Chenin Blanc,branco seco
+15,Polvo grelhado,"polvo, azeite, páprica",frutos do mar,defumado,média,média,Vinho Verde,branco seco
+16,Cordeiro assado,"cordeiro, alecrim, alho",carne vermelha,herbal,baixa,alta,Carmenere,tinto seco
+18,Tofu grelhado,"tofu, shoyu, gengibre",vegetariano,herbal,média,baixa,Rosé,rosé seco
+19,Hambúrguer artesanal,"carne bovina, queijo, cebola",carne vermelha,intenso,baixa,alta,Zinfandel,tinto seco
+21,Ratatouille,"legumes, ervas",vegetariano,herbal,média,baixa,Grenache,tinto leve
+22,Paella,"arroz, frutos do mar, açafrão",frutos do mar,moderado,média,alta,Albariño,branco seco
+23,Costela assada,"costela bovina, sal grosso",carne vermelha,intenso,baixa,alta,Tannat,tinto seco
+24,Arroz de pato,"pato, arroz, linguiça",carne vermelha,intenso,média,alta,Tempranillo,tinto seco
+33,Carne de panela,"carne bovina, legumes",carne vermelha,moderado,baixa,alta,Cabernet Franc,tinto seco
+35,Bruschetta,"pão, tomate, manjericão",vegetariano,herbal,alta,baixa,Prosecco,espumante
+37,Espaguete à bolonhesa,"massa, carne, tomate",carne vermelha,moderado,média,média,Sangiovese,tinto seco
+45,Pastel de queijo,"massa, queijo",vegetariano,suave,baixa,baixa,Espumante Brut,espumante
+47,Sushi,"arroz, peixe cru",peixe,suave,alta,baixa,Sake,licoroso
+68,Polenta com ragu,"polenta, carne",carne vermelha,intenso,baixa,alta,Nebbiolo,tinto seco
+89,Penne all'arrabbiata,"massa, tomate, pimenta",vegetariano,picante,média,alta,Primitivo,tinto frutado

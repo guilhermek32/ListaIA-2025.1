@@ -1,0 +1,101 @@
+id_prato,nome_prato,ingredientes,tipo_prato,temperos,acidez,intensidade_sabor
+1,Filé ao molho madeira,"filé mignon, molho madeira, cogumelos",carne vermelha,intenso,baixa,alta
+2,Salmão grelhado,"salmão, limão, ervas",peixe,herbal,alta,média
+3,Lasanha vegetariana,"massa, molho de tomate, legumes",vegetariano,moderado,média,média
+4,Frango ao curry,"frango, curry, leite de coco",carne branca,picante,média,alta
+5,Risoto de limão siciliano,"arroz arbório, limão siciliano, parmesão",vegetariano,cítrico,alta,baixa
+6,Picanha na brasa,"picanha, sal grosso",carne vermelha,salgado,baixa,alta
+7,Camarão ao alho e óleo,"camarão, alho, azeite",frutos do mar,intenso,média,média
+8,Quiche de espinafre,"espinafre, ovos, queijo",vegetariano,suave,baixa,baixa
+9,Bacalhau à Gomes de Sá,"bacalhau, batatas, cebola, azeitonas",peixe,salgado,média,alta
+10,Feijoada,"feijão preto, carnes defumadas",carne vermelha,intenso,baixa,alta
+11,Moqueca baiana,"peixe, dendê, leite de coco",peixe,intenso,média,alta
+12,Strogonoff de carne,"carne, creme de leite, cogumelos",carne vermelha,cremoso,baixa,média
+13,Strogonoff de frango,"frango, creme de leite, cogumelos",carne branca,cremoso,baixa,média
+14,Risoto de cogumelos,"arroz arbório, cogumelos, parmesão",vegetariano,terroso,baixa,média
+15,Polvo grelhado,"polvo, azeite, páprica",frutos do mar,defumado,média,média
+16,Cordeiro assado,"cordeiro, alecrim, alho",carne vermelha,herbal,baixa,alta
+17,Tilápia assada,"tilápia, limão, manteiga",peixe,cítrico,alta,baixa
+18,Tofu grelhado,"tofu, shoyu, gengibre",vegetariano,herbal,média,baixa
+19,Hambúrguer artesanal,"carne bovina, queijo, cebola",carne vermelha,intenso,baixa,alta
+20,Tabule,"trigo, salsa, tomate, hortelã",vegetariano,herbal,alta,baixa
+21,Ratatouille,"legumes, ervas",vegetariano,herbal,média,baixa
+22,Paella,"arroz, frutos do mar, açafrão",frutos do mar,moderado,média,alta
+23,Costela assada,"costela bovina, sal grosso",carne vermelha,intenso,baixa,alta
+24,Arroz de pato,"pato, arroz, linguiça",carne vermelha,intenso,média,alta
+25,Sopa de cebola,"cebola, queijo gruyère",vegetariano,intenso,baixa,média
+26,Frango grelhado,"frango, ervas",carne branca,herbal,baixa,baixa
+27,Porco agridoce,"carne suína, abacaxi",carne branca,doce,média,média
+28,Tacos de carne,"carne bovina, especiarias",carne vermelha,picante,média,alta
+29,Tacos de peixe,"peixe, repolho, limão",peixe,cítrico,alta,média
+30,Purê de batata com cogumelos,"batata, cogumelos, manteiga",vegetariano,suave,baixa,baixa
+31,Ceviche,"peixe branco, limão, cebola",peixe,cítrico,alta,baixa
+32,Burrito vegetariano,"feijão, arroz, legumes",vegetariano,moderado,baixa,média
+33,Carne de panela,"carne bovina, legumes",carne vermelha,moderado,baixa,alta
+34,Lagosta grelhada,"lagosta, manteiga",frutos do mar,suave,baixa,média
+35,Bruschetta,"pão, tomate, manjericão",vegetariano,herbal,alta,baixa
+36,Espaguete ao pesto,"massa, manjericão, parmesão",vegetariano,herbal,média,média
+37,Espaguete à bolonhesa,"massa, carne, tomate",carne vermelha,moderado,média,média
+38,Sopa de legumes,legumes variados,vegetariano,suave,baixa,baixa
+39,Escondidinho de carne seca,"carne seca, mandioca",carne vermelha,intenso,baixa,alta
+40,Escondidinho de frango,"frango, mandioca",carne branca,moderado,baixa,média
+41,Kibe assado,"trigo, carne, hortelã",carne vermelha,herbal,média,média
+42,Tabule com frango,"frango, trigo, hortelã",carne branca,herbal,alta,baixa
+43,Falafel,"grão-de-bico, ervas",vegetariano,herbal,média,média
+44,Bife ancho,"carne bovina, sal",carne vermelha,intenso,baixa,alta
+45,Pastel de queijo,"massa, queijo",vegetariano,suave,baixa,baixa
+46,Pastel de carne,"massa, carne",carne vermelha,moderado,baixa,média
+47,Sushi,"arroz, peixe cru",peixe,suave,alta,baixa
+48,Temaki,"peixe cru, arroz, algas",peixe,herbal,alta,média
+49,Yakissoba,"macarrão, legumes, shoyu",vegetariano,moderado,baixa,média
+50,Katsu de frango,frango empanado,carne branca,moderado,baixa,média
+51,Costelinha barbecue,"porco, molho barbecue",carne branca,doce,baixa,alta
+52,Salada Cesar,"alface, frango, parmesão",carne branca,moderado,baixa,baixa
+53,Salada caprese,"tomate, muçarela, manjericão",vegetariano,herbal,média,baixa
+54,Bolo de carne,"carne moída, temperos",carne vermelha,moderado,baixa,alta
+55,Curry vegetariano,"legumes, curry",vegetariano,picante,média,média
+56,Pato ao molho laranja,"pato, laranja",carne vermelha,doce,alta,alta
+57,Carne suína assada,"porco, ervas",carne branca,herbal,baixa,média
+58,Frango xadrez,"frango, pimentão, amendoim",carne branca,intenso,média,média
+59,Tortellini ao pesto,"massa recheada, manjericão",vegetariano,herbal,média,média
+60,Tortellini ao pomodoro,"massa, tomate",vegetariano,moderado,média,média
+61,Lagarto ao molho,"carne bovina, molho agridoce",carne vermelha,doce,média,alta
+62,Bacalhau ao forno,"bacalhau, batata",peixe,salgado,média,alta
+63,Frango ao alho,"frango, alho",carne branca,intenso,baixa,média
+64,Carne moída com legumes,"carne moída, legumes",carne vermelha,moderado,baixa,média
+65,Peixe empanado,"peixe branco, farinha",peixe,moderado,baixa,baixa
+66,Abobrinha recheada,"abobrinha, queijo",vegetariano,suave,baixa,baixa
+67,Sopa de abóbora,"abóbora, creme",vegetariano,doce,baixa,baixa
+68,Polenta com ragu,"polenta, carne",carne vermelha,intenso,baixa,alta
+69,Peito de peru assado,"peru, ervas",carne branca,herbal,baixa,média
+70,Risoto de queijo,"arroz, queijo",vegetariano,cremoso,baixa,média
+71,Risoto de camarão,"arroz, camarão",frutos do mar,moderado,média,média
+72,Lula recheada,"lula, especiarias",frutos do mar,intenso,média,alta
+73,Caranguejo cozido,"caranguejo, temperos",frutos do mar,moderado,alta,média
+74,Esfirra de carne,"carne, especiarias",carne vermelha,herbal,média,média
+75,Esfirra de queijo,"queijo, massa",vegetariano,moderado,baixa,baixa
+76,Tagliatelle aos funghi,"massa, cogumelos",vegetariano,terroso,baixa,média
+77,Tagliatelle aos frutos do mar,"massa, frutos do mar",frutos do mar,moderado,média,média
+78,Carne louca,"carne desfiada, molho",carne vermelha,intenso,baixa,alta
+79,Frango com quiabo,"frango, quiabo",carne branca,moderado,baixa,média
+80,Pato confit,"pato, gordura",carne vermelha,intenso,baixa,alta
+81,Ensopado de peixe,"peixe, caldo, legumes",peixe,moderado,alta,média
+82,Caril de camarão,"camarão, curry",frutos do mar,picante,média,alta
+83,Panquecas de carne,"carne, molho",carne vermelha,moderado,média,média
+84,Panquecas de ricota,"ricota, espinafre",vegetariano,suave,baixa,baixa
+85,Arroz carreteiro,"carne seca, arroz",carne vermelha,intenso,baixa,alta
+86,Chili com carne,"carne, feijão, pimenta",carne vermelha,picante,média,alta
+87,Bolo salgado de frango,"frango, legumes",carne branca,moderado,baixa,baixa
+88,Lasanha à bolonhesa,"massa, carne, molho",carne vermelha,moderado,média,alta
+89,Penne all'arrabbiata,"massa, tomate, pimenta",vegetariano,picante,média,alta
+90,Penne aos quatro queijos,"massa, queijos",vegetariano,cremoso,baixa,alta
+91,Arepas com carne,"carne, milho",carne vermelha,moderado,baixa,média
+92,Nhoque ao sugo,"massa, molho de tomate",vegetariano,moderado,média,média
+93,Nhoque ao gorgonzola,"massa, gorgonzola",vegetariano,forte,baixa,alta
+94,Costela suína,"porco, temperos",carne branca,intenso,baixa,alta
+95,Porco no rolete,"porco, ervas",carne branca,herbal,baixa,alta
+96,Linguiça toscana,"linguiça, especiarias",carne vermelha,intenso,baixa,alta
+97,Bisteca suína,"porco, sal",carne branca,moderado,baixa,média
+98,Cafta,"carne, especiarias árabes",carne vermelha,intenso,média,alta
+99,Massa ao limão,"massa, limão, creme",vegetariano,cítrico,alta,baixa
+100,Omelete de queijo,"ovos, queijo",vegetariano,suave,baixa,baixa
