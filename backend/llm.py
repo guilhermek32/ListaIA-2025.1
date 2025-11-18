@@ -36,7 +36,7 @@ class WineRecommendationSignature(dspy.Signature):
     justificativa = dspy.OutputField(
         desc="Justificativa detalhada em português sobre por que este vinho harmoniza perfeitamente com o prato. "
              "Deve mencionar as características do prato, do vinho, e explicar a harmonização de forma educativa e elegante. "
-             "Use 3-4 parágrafos com linguagem sofisticada mas acessível."
+             "Use 2-3 parágrafos com linguagem sofisticada mas acessível."
     )
 
 
