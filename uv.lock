@@ -1057,7 +1057,7 @@ wheels = [
 [[package]]
 name = "listaia-2025-1"
 version = "1.0.0"
-source = { editable = "." }
+source = { virtual = "." }
 dependencies = [
     { name = "dspy-ai" },
     { name = "fastapi" },

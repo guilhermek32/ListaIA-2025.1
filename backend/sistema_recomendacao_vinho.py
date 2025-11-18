@@ -213,10 +213,12 @@ def recomendar_vinho(nome_prato, df_pratos, df_vinhos, top_n=5):
     }
 
     # Criar vetor de características do prato
+    # Vetor: [acidez, intensidade, tipo_prato]
+    # tipo_prato já foi mapeado para 1-5 baseado na intensidade da proteína
     features_prato = np.array([
         prato_encoded['acidez_num'],
         prato_encoded['intensidade_num'],
-        prato_encoded['temperos_num']
+        prato_encoded['tipo_prato_num']
     ]).reshape(1, -1)
 
     # Calcular similaridade com cada vinho
@@ -228,10 +230,13 @@ def recomendar_vinho(nome_prato, df_pratos, df_vinhos, top_n=5):
             continue
             
         # Vetor de características do vinho
+        # Vetor: [acidez, intensidade, tanino]
+        # tanino é um indicador de corpo/peso do vinho (0 para brancos, 1-3 para tintos)
+        # isso se alinha com tipo_prato que indica peso da proteína
         features_vinho = np.array([
             caracteristicas_vinhos[vinho['vinho']]['acidez'],
             caracteristicas_vinhos[vinho['vinho']]['intensidade'],
-            caracteristicas_vinhos[vinho['vinho']]['tanino'] if caracteristicas_vinhos[vinho['vinho']]['tanino'] > 0 else 0
+            caracteristicas_vinhos[vinho['vinho']]['tanino']
         ]).reshape(1, -1)
 
         # Similaridade de cosseno entre características
